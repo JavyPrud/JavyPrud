@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JavyPrud
+- 👋 Hi, I’m @Prudjavy: web developer with PHP, Mysql,CSS, html, javascript(jquery), bootstrap
 - 👀 I’m interested in PYTHON
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on many experimented deloppers
